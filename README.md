@@ -66,13 +66,6 @@ Contains the linear MPC solver function.
 
 ---
 
-## 🗂️ Extra (Optional)
-**Folder: `extra/`**  
-Contains additional scripts used for learning and experimentation.  
-These files are **not required** for the main project.
-
----
-
 ## 🚀 How to Run
 1. Install all required libraries.  
 2. Run any task file independently (except where dependencies are mentioned).  
